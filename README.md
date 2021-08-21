@@ -1,4 +1,4 @@
-### Hi there 👋
+### :bulb: Generate, disseminate and preserve knowledge 
 
 <!--
 **carlosmayorga/carlosmayorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
